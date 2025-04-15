@@ -6,6 +6,8 @@
 - PHP (solo para servir el HTML)
 - API externa: JSONPlaceholder
 
+Se utilizaron estas tecnologías porque forman parte de los requisitos técnicos establecidos en la prueba. Además, se decidió utilizar Bootstrap ya que ofrece una estructura base con componentes como cards, sobre la cual es posible trabajar, aplicar estilos personalizados y adaptarla a necesidades específicas del proyecto.
+
 ## Funcionalidad
 - Lista de usuarios desde API
 - Ver detalles individuales
